@@ -15,6 +15,10 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Raw and processed dataset 
-data/raw/
-data/processed/
+# Raw and processed datasets
+data/raw/*
+data/processed/*
+
+# Keep empty data directories in Git
+!data/raw/.gitkeep
+!data/processed/.gitkeep
