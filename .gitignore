@@ -14,3 +14,7 @@ __pycache__/
 # Operating system files
 .DS_Store
 Thumbs.db
+
+# Raw and processed dataset 
+data/raw/
+data/processed/
