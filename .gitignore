@@ -21,4 +21,4 @@ data/processed/*
 
 # Keep empty data directories in Git
 !data/raw/.gitkeep
-!data/processed/.gitkeep
+!data/processed/.gitkeepcatboost_info/
